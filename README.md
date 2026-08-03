@@ -72,7 +72,7 @@ To run the project locally, follow these steps.
 Install the required Python packages using pip:
 
 ```bash
-python3 -m pip install pyspark numpy
+python3 -m pip install -r requirements.txt
 ```
 
 This installs:
